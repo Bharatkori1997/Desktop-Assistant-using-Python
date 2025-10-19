@@ -30,3 +30,11 @@ pip list
 ```bash
 pip install -r requirement.txt
 ```
+
+Required git commad
+
+```bash
+git add .
+git commit -m "message"
+git push origin main
+```
